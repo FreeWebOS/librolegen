@@ -11,12 +11,12 @@ Dependencies
 Below are the tools (and their minimum versions) required to build _librolegen_: 
 
 - cmake (version required by openwebos/cmake-modules-webos)
-- g++ 4.6.3
+- g++ 4.6.3 or Clang
 - openwebos/cmake-modules-webos 1.0.0 RC2
 - pkg-config 0.26
 
-How to Build on Linux
-=====================
+How to Build on Linux or FreeBSD
+================================
 
 ## Building
 
